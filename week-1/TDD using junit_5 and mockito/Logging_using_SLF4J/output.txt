@@ -1,0 +1,4 @@
+23:46:15.948 [main] ERROR com.klu.junit_testing.LoggerClass - This is an error message
+23:46:15.965 [main] WARN com.klu.junit_testing.LoggerClass - This is a warning message
+23:46:15.965 [main] INFO com.klu.junit_testing.LoggerClass - This is an info message
+23:46:15.965 [main] DEBUG com.klu.junit_testing.LoggerClass - This is a debug message
