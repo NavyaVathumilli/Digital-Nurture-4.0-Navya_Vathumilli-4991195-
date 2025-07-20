@@ -1,0 +1,7 @@
+Run the application using Main class --->  LoanApplication.java
+
+Now To Test Open browser:
+http://localhost:8081/loans/H00987987972342
+
+output will be ::
+{"emi":3258,"number":"H00987987972342","loan":400000,"type":"car","tenure":18}

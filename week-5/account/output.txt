@@ -1,0 +1,11 @@
+Run the application using Main class --->  AccountApplication.java
+
+Now To Test Open browser:
+http://localhost:8080/accounts/00987987973432
+
+
+Output will be ::
+
+{"number":"00987987973432","balance":234343,"type":"savings"}
+
+
