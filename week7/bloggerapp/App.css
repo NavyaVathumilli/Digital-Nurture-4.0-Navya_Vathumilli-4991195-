@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.section {
+  border-left: 2px solid green;
+  padding: 10px 20px;
+}
